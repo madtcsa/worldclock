@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DialPlateView">
+        <attr name="BackgroundColor" format="color"/>
+        <attr name="CityNameTextSize" format="dimension"/>
+        <attr name="TimeTextSize" format="dimension"/>
+        <attr name="DateTextSize" format="dimension"/>
+        <attr name="CityNameText" format="string"/>
+        <attr name="TimeText" format="string"/>
+        <attr name="DateText" format="string"/>
+        <attr name="PlateRadius" format="dimension"/>
+        <attr name="TextColor" format="color"/>
+    </declare-styleable>
+</resources>
