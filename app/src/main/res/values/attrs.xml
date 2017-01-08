@@ -11,5 +11,6 @@
         <attr name="DateText" format="string"/>
         <attr name="PlateRadius" format="dimension"/>
         <attr name="TextColor" format="color"/>
+        <attr name="IsLocationCity" format="boolean"/>
     </declare-styleable>
 </resources>
